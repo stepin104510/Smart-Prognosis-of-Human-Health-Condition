@@ -9,7 +9,7 @@
 # Project related configuration options
 #---------------------------------------------------------------------------
 DOXYFILE_ENCODING      = UTF-8
-PROJECT_NAME           = pro
+PROJECT_NAME           = project code
 PROJECT_NUMBER         = 
 PROJECT_BRIEF          =
 PROJECT_LOGO           =
@@ -91,7 +91,7 @@ WARN_IF_UNDOCUMENTED   = NO
 WARN_IF_DOC_ERROR      = YES
 WARN_NO_PARAMDOC       = YES
 WARN_FORMAT            = "$file:$line: $text"
-WARN_LOGFILE            = "D:\project\pro\doxygen\doxygen.log"
+WARN_LOGFILE            = "D:\project\project code\doxygen\doxygen.log"
 #---------------------------------------------------------------------------
 # configuration options related to the input files
 #---------------------------------------------------------------------------
