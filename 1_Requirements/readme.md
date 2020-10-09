@@ -1,4 +1,5 @@
   Software and hardware requirements
+  
 1.OS: Windows 7,8 or 10
 2.Memory: 250MB (minimum)
 3.Processor: Intel core 3 or 5
