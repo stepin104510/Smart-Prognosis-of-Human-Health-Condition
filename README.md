@@ -7,3 +7,4 @@
        
        According to the option choose by the user and inputs given will be used to calculate the Risk Factor. 
        
+![CI](https://github.com/stepin104510/Smart-Prognosis-of-Human-Health-Condition/workflows/CI/badge.svg)
