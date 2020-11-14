@@ -10,4 +10,4 @@
 
 5.Compiler: GNU GCC Complier
 
-6.Programming Language: C programming
+6.Programming Language: C 
