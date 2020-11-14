@@ -9,3 +9,4 @@
        
 ![CI](https://github.com/stepin104510/Smart-Prognosis-of-Human-Health-Condition/workflows/CI/badge.svg)
 ![cppcheck-action](https://github.com/stepin104510/Smart-Prognosis-of-Human-Health-Condition/workflows/cppcheck-action/badge.svg)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/1546e341131643328d601c50eb350948)](https://www.codacy.com/gh/stepin104510/Smart-Prognosis-of-Human-Health-Condition/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=stepin104510/Smart-Prognosis-of-Human-Health-Condition&amp;utm_campaign=Badge_Grade)
